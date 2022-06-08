@@ -1,0 +1,428 @@
+/* медиазапросы */
+@media screen and (max-width: 1440px) {
+   .video-background {
+    left: 5%;
+   }
+
+   .video-buttom {
+    left: 35%;
+   }
+
+   .test__voice-slick {
+    margin-left: 60px;
+   }
+
+   .sign-image {
+    height: 108%; 
+   }
+
+   .sign-send {
+    margin-left: 5px;
+    width: 800px;
+   }
+
+   .input[type=text] {
+    padding: 10px 30px 10px 10px;
+   }
+
+   .mail-address {
+    padding: 15px 15px;
+    font-size: 14px;
+  }
+   
+    
+}
+
+@media screen and (max-width: 1024px) {
+    .video-background {
+        left: 0%;
+    }
+
+    .we-have__card {
+        padding: 40px;
+    }
+
+    .test-img {
+        width: 110%;
+    }
+
+    .voice-faice {
+        width: 15%;
+    }
+
+    .voice-dabbl {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+
+    h3 {
+        margin-top: 10px;
+    }
+
+    .footer-support {
+        margin-left: 30px;
+    }
+
+    .footer-contact {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+   h1 {
+    font-size: 50px;
+    padding-top: 80px;
+    width: 300px;
+   }
+
+   .life-slick__border {
+    width: 60%;
+   }
+
+   .life-slick__dotted{
+    width: 20%;
+    margin-top: -295px;  
+   }
+
+   .life-slick__dotted-one {
+    width: 20%;  
+   }
+
+   .life-slick__dotted-two {
+    width: 20%;
+   }
+   .life-slick__dotted-three {
+    width: 20%;
+   }
+   .life-slick__dotted-four {
+       width: 20%;
+    }
+   .life-slick__dotted-five {
+    width: 20%;
+   }
+   .life-slick__dotted-six {
+    width: 20%;
+   }
+   .life-slick__dotted-seven {
+    width: 20%; 
+    }
+    .life-slick__shadow{
+        margin-top: 50px;
+        margin-left: -50px;
+    }
+
+   .life-slick__shuse {
+        width: 90%;
+        margin-left: -70px;
+        margin-top: -370px;
+    }
+
+    .slick-next {
+        left: 75%;
+        top: 40%;
+    }
+
+    .choice-menu_nav {
+        width: 600px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    .video-title {
+        margin-top: -40px;
+    }
+
+
+    .video-background {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .video-life {
+        width: 45%;
+    }
+    .video-buttom {
+        width: 20%;
+    }
+
+    .we-have__cards {
+        flex-direction: column;
+    }
+
+    .we-have__card {
+        flex-direction: row;
+        height: auto;
+        max-width: inherit;
+        justify-content: space-between;
+    }
+
+    .card-quality {
+        width: 10%;
+        height: 20%;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        margin-left: 20px;
+        margin-top: 15px;
+        margin-right: 10px;
+    }
+
+    .quality {
+        margin-top: 10px;
+        margin-right: 50px;
+    }
+
+    .quality-read{
+        margin-right: 10px;
+    }
+
+    .gallary {
+        margin-top: 50px;
+    }
+
+    .gallary-card__image {
+        width: 100%;
+        margin-left: 0px;
+    }
+    
+
+    h4 {
+        font-size: 26px;
+    margin-left: 20px;
+    }
+
+    .puma-card {
+        margin-left: 20px;
+    }
+
+    .puma-gallary {
+        margin-left: 20px;
+    }
+
+    .slick-next {
+        margin-left: 200px;
+        margin-top: 80px;
+    }
+
+    .testimonial {
+        margin-top: -70px;
+    }
+
+    .test__voice-slick {
+        width: 350px;
+    }
+
+    .voice-faice {
+        width: 10%;
+    }
+
+    .voice-dabbl {
+        width: 5%;
+    }
+
+    h3 {
+        text-align: left;
+        margin-left: -1px;
+        font-size: 18px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .voice {
+        font-size: 13px;
+    }
+
+    h5 {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+
+    .voice-prof{
+        margin-top: 2px;
+        font-size: 12px;
+    }
+
+    .sign {
+        margin-top: -200px;
+    }
+
+    .sign-send {
+        padding: 40px 40px 60px 30px;
+    }
+
+    .footer-nav__link{
+        font-size: 12px;
+    }
+
+    .service-nav {
+        font-size: 14px;
+    }
+
+    .support-nav {
+        font-size: 14px;
+    }
+
+    .contact-nav {
+        font-size: 14px;
+    }
+
+    .contact-us {
+        font-size: 14px;
+        width: 150px;
+    }
+
+    .tnput-text__contact {
+        display: none;
+    
+    }
+
+    .footer-underline {
+        font-size: 10px;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 425px) {
+    .header-nav {
+        display: none;
+    }
+
+    .header-button{
+        display: none;
+    }
+
+    .burger {
+        display: block;
+        padding-top: 50px;
+    }
+
+    .life-title {
+        flex-direction: column;
+        margin-left: 50px;
+    }
+
+    h1 {
+        padding-top: 20px;
+    }
+
+    .life-slick {
+        margin-left: -20px;
+    }
+    
+    .choice-menu_nav {
+        width: 300px;
+        padding: 30px 40px;
+        margin-top: -50px;
+        flex-wrap: wrap;
+    }
+
+    .choice-button {
+        width: 350px;
+        margin-top: 10px;
+    }
+
+    .video {
+        margin-top: 100px;
+        flex-wrap: wrap;
+        margin-left: 20px;
+    }
+
+    .video-background {
+        margin-top: 100px;
+        margin-left: 35px;
+    }
+
+    .video-life {
+        width: 80%;
+        margin-top: 60px;
+    }
+
+    .we-have {
+        margin-top: -50px;
+    }
+
+    .we-have__cards {
+        margin-top: 30px;
+    }
+
+    .we-have__card {
+        padding: 10px;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .card-quality {
+        margin-left: 150px;
+    }
+
+    h3 {
+        margin-left: 140px;
+    }
+   
+    .quality {
+        margin-left: auto;
+        margin-bottom: 10px;
+    }
+
+    .quality-read {
+        margin-top: 10px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .categories-title {
+        font-size: 14px;
+    }
+
+    .puma-gallary {
+        width: 350px;
+        margin-top: 10px;
+    }
+
+    .test-img {
+        width: 90%;
+        position: absolute;
+        margin-top: -50px;
+    }
+
+    .test__voice-slick {
+        margin-top: 250px;
+        margin-left: 20px;
+    }
+
+    /*.sign-image {
+        position: absolute;
+        margin-top: -50px;
+        width: 100%;
+        height: 50%;
+        margin-left: -5px;
+    }*/
+
+    .sign-send {
+        margin-left: -20px;
+    }
+
+    .footer-burger {
+        display: block;
+        margin-top: 15px;
+        margin-left: 80px;
+    }
+
+    .footer-services {
+        display: none;
+    }
+
+    .footer-support {
+        display: none;
+    }
+
+    .footer-contact {
+        display: none;
+    }
+}
